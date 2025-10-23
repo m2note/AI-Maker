@@ -1,0 +1,5 @@
+{
+  "name": "AI Film Maker",
+  "description": "Generate cinematic scene variations from a single reference image and a story description. The tool uses AI to create a storyboard with different camera angles, perspectives, and moods, and can even generate short video clips for each scene.",
+  "requestFramePermissions": []
+}
